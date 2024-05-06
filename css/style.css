@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+span {
+    margin: 15px;
+}
+
+button {
+    border: solid black 1px;
+}
